@@ -4,7 +4,7 @@
 
 ![PeeWee whole](./images/PeeWee.png)
 <img src="./images/PeeWee.png" width="500"/>
-<img src="" height"350">
+
 The PeeWee RoboCar can be printed from home and programmed using a Micro:bit.
 Thanks to the printable parts, you don't have to worry, because you can print the cart yourself.
 
@@ -65,15 +65,15 @@ Unlike the other components, the base plate is made of plywood, so it is necessa
 ## Build
 1. Check that this opening is on the left side
 
-![./images/PeeWee_orientation.png)
+<img src="./images/PeeWee_orientation.png" width="500"/>
 <br>
 
 ### 1. LED holder
 Take the individual LED holders and place their screw holes over the holes in the main board as shown.
 Place a screw with a diameter of approx. M2.2x6.5 in each hole as shown in the picture.
 Screw each LED holder with a screw.
-![PeeWee LED holders](./images/PeeWee_LED_holders.png)
 
+<img src="./images/PeeWee_LED_holders.png" width="500"/>
 
 ### 2. Soldering the LED
 Cut your LED strip as follows:
@@ -82,32 +82,28 @@ Cut your LED strip as follows:
 * 2 x 4 LEDs
 Mount and solder as shown
 
-![PeeWee LED insert](./images/PeeWee_LED.png)
-
+<img src="./images/PeeWee_LED.png" width="500"/>
 
 ### 3. Bottom wheels for holding
 1. Put M3x8 screws in 2 holes at the top, put a steel ball at the bottom and fix with a nut
 2. Do for both balls
-
-![PeeWeeBalls](./images/PeeWeeballs.png)
+<img src="./images/PeeWeeballs.png" width="500"/>
 
 ### 4. IR box
 1. place the IR box in these three holes
 2. Screw the IR box to the board using two M1.7x4 screws
 3. Insert the IR sensors into the box.
 4. Snap on the top cover.
-
-![PeeWee box inside](PeeWee_box_inside.png)
-![PeeWee box inside](PeeWee_box.png)
-
+<img src="./images/PeeWee_box_inside.png" width="500"/>
+<img src="./images/PeeWee_box.png" width="500"/>
 ### 5. Engines
 1. Fix the IR sensors for measuring rotation from below with M2.5x8 screws
 2. Snap both sides into the wooden board
 3. Insert the motors into the base plate from below and screw M3x8 screws into the side
 4. Attach the plastic wheel to the motor rod
-![PeeWee motors](./images/PeeWee_motors.png)
-![PeeWee motors](./images/PeeWee_motors_whole.png)
-5. Finally, snap the top panel to the sides
+<img src="./images/PeeWee_motors.png" width="500"/>
+<img src="./images/PeeWee_motors_whole.png" width="500"/>
+6. Finally, snap the top panel to the sides
    
 ### 6. Engagement
 Take the Motor:Bit and place it on the top panel using the lego plugs.<br>
