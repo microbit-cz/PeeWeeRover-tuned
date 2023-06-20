@@ -87,8 +87,7 @@ Mount and solder as shown
 ### 3. Bottom wheels for holding
 1. Put M3x8 screws in 2 holes at the top, put a steel ball at the bottom and fix with a nut
 2. Do for both balls
-
-![PeeWee metal balls](./images/PeeWee balls.png)
+![PeeWeeBalls](./images/PeeWee balls.png)
 
 ### 4. IR box
 1. place the IR box in these three holes
