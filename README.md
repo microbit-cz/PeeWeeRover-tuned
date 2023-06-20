@@ -3,7 +3,7 @@
 [![cs](https://img.shields.io/badge/lang-cs-red)](./README.cs.md)
 
 ![PeeWee whole](./images/PeeWee.png)
-<img src="./images/PeeWee.png" height="350"/>
+<img src="./images/PeeWee.png" height="500"/>
 <img src="" height"350">
 The PeeWee RoboCar can be printed from home and programmed using a Micro:bit.
 Thanks to the printable parts, you don't have to worry, because you can print the cart yourself.
