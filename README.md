@@ -64,15 +64,15 @@ Unlike the other components, the base plate is made of plywood, so it is necessa
 ## Build
 1. Check that this opening is on the left side
 
-</ image />
+![./images/PeeWee_orientation.png)
 <br>
 
 ### 1. LED holder
 Take the individual LED holders and place their screw holes over the holes in the main board as shown.
 Place a screw with a diameter of approx. M2.2x6.5 in each hole as shown in the picture.
 Screw each LED holder with a screw.
+![PeeWee LED holders](./images/PeeWee_LED_holders.png)
 
-</ image />
 
 ### 2. Soldering the LED
 Cut your LED strip as follows:
@@ -81,7 +81,7 @@ Cut your LED strip as follows:
 * 2 x 4 LEDs
 Mount and solder as shown
 
-</ image />
+![PeeWee LED insert](./images/PeeWee_LED.png)
 
 
 ### 3. Bottom wheels for holding
