@@ -2,7 +2,8 @@
 [![en](https://img.shields.io/badge/lang-en-blue)](./README.md)
 [![cs](https://img.shields.io/badge/lang-cs-red)](./README.md)
 
-</ Obrázek />
+
+![PeeWee whole](./images/PeeWee.png)
 
 Vozítko PeeWee RoboCar, je možné vytiskout z domova a programovat pomocí Micro:bitu.
 Díky tisknutelnosti dílů se nemusíte bát, neboť si vozítko vytisknete sami.
@@ -64,15 +65,14 @@ Narozdíl od ostatních komponent je základní deska z překlišky, proto je nu
 ## Sestavení
 1. Zkontrolujte si že tento otvor je levé straně
 
-</ obrázek />
+![./images/PeeWee_orientation.png)
 <br>
 
 ### 1. LED holder
 Vezměte jednotlivé LED holdery a umístěte jejich otvory na vruty nad otvory v hlavní desce jako na obrázku.
 Do každého otvoru umístěte vrut o průměru cca M2.2x6.5 jako na obrázku.
 Každý držák na LED vrutem přišroubujte.
-
-</ obrázek />
+![PeeWee LED holders](./images/PeeWee_LED_holders.png)
 
 ### 2. Pájení LED
 Nastříhejte si z LED pásku následovně:
@@ -80,15 +80,14 @@ Nastříhejte si z LED pásku následovně:
 * 7x 2 LED
 * 2x 4 LED
 Osadtě a připájejte jako na obrázku
-
-</ obrázek />
+![PeeWee LED insert](./images/PeeWee_LED.png)
 
 
 ### 3. Spodní kolečka na držení
 1. Nahoru do 2 otvorů dejte šrouby M3x8, zespoda dejte ocelovou kuličku a upevněte maticí
 2. Do udělejte pro obě kuličky
 
-</ obrázek />
+![PeeWeeBalls](./images/PeeWeeballs.png)
 
 ### 4. IR box
 1. umístěte IR box do těchto tří otvorů
@@ -96,16 +95,16 @@ Osadtě a připájejte jako na obrázku
 3. Vložte IR senzory do boxu.
 4. Přicvakněte horní kryt.
 
-</ obrázek />
+![PeeWee box inside](PeeWee_box_inside.png)
+![PeeWee box inside](PeeWee_box.png)
 
 ### 5. Motory
 1. Ze spoda upevněte IR senzory pro měření otáčení zespoda vruty M2.5x8
 2. Do dřevěné desky zacvakněte obě bočnice
 3. Motory zastrčte spodem do základní desky a přišroubujte do bočnice škouby M3x8
 4. Na tyčku motorů upevněte plastové kolečko
-
-</ obrázek />
-
+![PeeWee motors](./images/PeeWee_motors.png)
+![PeeWee motors](./images/PeeWee_motors_whole.png)
 5. Nakonec přicvakněte horní panel na bočnice
    
 ### 6. Zapojení
