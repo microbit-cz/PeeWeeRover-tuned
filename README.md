@@ -104,8 +104,8 @@ Mount and solder as shown
 3. Insert the motors into the base plate from below and screw M3x8 screws into the side
 4. Attach the plastic wheel to the motor rod
 
-</ image />
-
+![PeeWee box inside](PeeWee_box_inside.png)
+![PeeWee box inside](PeeWee_box.png)
 5. Finally, snap the top panel to the sides
    
 ### 6. Engagement
