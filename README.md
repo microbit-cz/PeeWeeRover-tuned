@@ -127,3 +127,7 @@ LEDs | P0
 2. Insert your Micro:Bit into the Motor:Bit
 
 Note: If the cart behaves differently, you must have made a mistake somewhere, so check the cart according to the previous part of the manual.
+
+
+## Author
+[@LukasChaloupecky](https://github.com/LukasChaloupecky)
