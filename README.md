@@ -96,16 +96,16 @@ Mount and solder as shown
 3. Insert the IR sensors into the box.
 4. Snap on the top cover.
 
-</ image />
+![PeeWee box inside](PeeWee_box_inside.png)
+![PeeWee box inside](PeeWee_box.png)
 
 ### 5. Engines
 1. Fix the IR sensors for measuring rotation from below with M2.5x8 screws
 2. Snap both sides into the wooden board
 3. Insert the motors into the base plate from below and screw M3x8 screws into the side
 4. Attach the plastic wheel to the motor rod
-
-![PeeWee box inside](PeeWee_box_inside.png)
-![PeeWee box inside](PeeWee_box.png)
+![PeeWee motors](./images/PeeWee_motors.png)
+![PeeWee motors](./images/PeeWee_motors_whole.png)
 5. Finally, snap the top panel to the sides
    
 ### 6. Engagement
