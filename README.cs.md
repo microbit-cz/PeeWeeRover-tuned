@@ -125,6 +125,8 @@ LED | P0
 2. Vložte váš Micro:Bit do Motor:Bitu
 
 Poznámka: Pokud se vozítko chová jinak, museli jste někde udělat chybu a zkontrolujte tak vozítko podle předešlé části manuálu.
+## Motorbit V2.0
+[Tutorial na kódování](https://github.com/emakefun/pxt-motorbit)
 
 ## Author
 [@LukasChaloupecky](https://github.com/LukasChaloupecky)
