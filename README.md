@@ -125,7 +125,7 @@ LEDs | P0
 
 Note: If the cart behaves differently, you must have made a mistake somewhere, so check the cart according to the previous part of the manual.
 ## Motorbit V2.0
-[@Tutorial](https://github.com/emakefun/pxt-motorbit)
+[Tutorial for coding](https://github.com/emakefun/pxt-motorbit)
 
 ## Author
 [@LukasChaloupecky](https://github.com/LukasChaloupecky)
