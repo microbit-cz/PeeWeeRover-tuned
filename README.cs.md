@@ -3,7 +3,7 @@
 [![cs](https://img.shields.io/badge/lang-cs-red)](./README.md)
 
 
-![PeeWee whole](./images/PeeWee.png)
+![PeeWee whole](./images/best.png)
 
 Vozítko PeeWee RoboCar, je možné vytiskout z domova a programovat pomocí Micro:bitu.
 Díky tisknutelnosti dílů se nemusíte bát, neboť si vozítko vytisknete sami.
