@@ -12,20 +12,20 @@ Thanks to the printable parts, you don't have to worry, because you can print th
 
 ## Price
 The price can vary greatly depending on the import,
-but after adding up the prices in the table above, the price is <b>~1593 CZK</b>.
+but after adding up the prices in the table above, the price is <b>~79.65 USD.</b>.
 
 However, this price does not include filament from printing, engraving, screws, etc.
 
 ## Components
 Components purchased | Price
 --- | ---
-[Lithium battery](https://www.lipolbaterie.cz/103-lipol-lipo-baterie-turnigy-3s-2200mah-20c-11-1v.html)| 523 CZK
-[2x Motor](https://www.specialni-naradi.cz/motorek-3-6v/0-17a-s-prevodovkou-prevod-1/48)| 122 CZK
-[3x IR sensor](https://www.laskakit.cz/arduino-ir-opticky-infra-snimac-fc-51/)| 84 CZK
-[2x IR wheel sensor]([./](https://www.makerstore.com.au/product/robo-sensor-speed/))| 130 CZK
-[LED strip](https://www.mall.cz/led-pasky/ledsoft-ws2812b-led-pasek-18w-m-ip20-100084347241) | 175 CZK
-[Engine:Bit](https://www.aliexpress.com/i/4000834837807.html)| 687 CZK
-[Lego plugs](https://www.malekostky.cz/Lego-Technic-pin-cerny-sada-10ks-d2803.htm)| 2 CZK
+[Lithium battery](https://www.lipolbaterie.cz/103-lipol-lipo-baterie-turnigy-3s-2200mah-20c-11-1v.html)| 24.14 USD
+[2x Motor](https://www.specialni-naradi.cz/motorek-3-6v/0-17a-s-prevodovkou-prevod-1/48)| 5.63 USD
+[3x IR sensor](https://www.laskakit.cz/arduino-ir-opticky-infra-snimac-fc-51/)| 3.88 USD
+[2x IR wheel sensor]([./](https://www.makerstore.com.au/product/robo-sensor-speed/))| 6.00 USD
+[LED strip](https://www.mall.cz/led-pasky/ledsoft-ws2812b-led-pasek-18w-m-ip20-100084347241) | 8.09 USD
+[Engine:Bit](https://www.aliexpress.com/i/4000834837807.html)| 31.72 USD
+[Lego plugs](https://www.malekostky.cz/Lego-Technic-pin-cerny-sada-10ks-d2803.htm)| 0.09 USD
 
 Components printed |
 --- |
