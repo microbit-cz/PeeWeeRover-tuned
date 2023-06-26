@@ -22,10 +22,10 @@ Components purchased | Price
 [Lithium battery](https://www.lipolbaterie.cz/103-lipol-lipo-baterie-turnigy-3s-2200mah-20c-11-1v.html)| 523 CZK
 [2x Motor](https://www.specialni-naradi.cz/motorek-3-6v/0-17a-s-prevodovkou-prevod-1/48)| 122 CZK
 [3x IR sensor](https://www.laskakit.cz/arduino-ir-opticky-infra-snimac-fc-51/)| 84 CZK
-[2x IR wheel sensor](./)| price
+[2x IR wheel sensor]([./](https://www.makerstore.com.au/product/robo-sensor-speed/))| 130 CZK
 [LED strip](https://www.mall.cz/led-pasky/ledsoft-ws2812b-led-pasek-18w-m-ip20-100084347241) | 175 CZK
 [Engine:Bit](https://www.aliexpress.com/i/4000834837807.html)| 687 CZK
-[Lego plugs](https://www.malekostky.cz/Lego-Technic-pin-cerny-sada-10ks-d2803.htm)| CZK 2
+[Lego plugs](https://www.malekostky.cz/Lego-Technic-pin-cerny-sada-10ks-d2803.htm)| 2 CZK
 
 Components printed |
 --- |
