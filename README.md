@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/lang-en-blue)](./README.md)
 [![cs](https://img.shields.io/badge/lang-cs-red)](./README.cs.md)
 
-![PeeWee whole](./images/PeeWee.png)
+![PeeWee whole](./images/best.png)
 
 
 The PeeWee RoboCar can be printed from home and programmed using a Micro:bit.
