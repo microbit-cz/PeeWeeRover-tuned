@@ -37,7 +37,7 @@ Základní deska |
 
 ## Cena
 Cena se může velice lišit podle dovozu,
-ale po součtu cen v tabulce nahoře je cena <b>~1593 Kč</b>.
+ale po součtu cen v tabulce nahoře je cena <b>~1723 Kč</b>.
 
 Ovšem do této ceny není započten filament z tisku, gravírování, vruty atd.
 
